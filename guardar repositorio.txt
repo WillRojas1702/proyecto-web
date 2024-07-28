@@ -1,0 +1,11 @@
+**REGISTRADOR Y MANDAMOS AL LOCAL
+git add . 
+
+**CREAR MENSAJE
+git commit -m "mensaje"
+
+REVISAR LO GUARDADO
+git log --oneline
+
+SUBIR A LA NUBE
+git push

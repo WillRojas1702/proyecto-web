@@ -1,3 +1,11 @@
-body   {
-    background-color: rgb(128, 218, 173);
+:root{
+    --primary-color: #5eb9f0;
+    --paragraph-color: #60697B;
+    --heading-color: #343F52;
+    --skyblue: #e5f4fd;
+    --white: #ffffff;
+}
+
+body{
+    font-family: "Urbanist", sans-serif;
 }
